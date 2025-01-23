@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📫 How to Reach Me
 - Email: [ali.blau10@gmail.com](mailto:ali.blau10@gmail.com)
-- LinkedIn: [Ali Samim](https://www.linkedin.com/in/alisamim/)
+- LinkedIn: [in/alisamim](https://www.linkedin.com/in/alisamim/)
 <!-- - Portfolio: [Your Website or Portfolio Link (Add here)](https://daykundi.com) *(if applicable)* -->
 
 ## ⚡ Tech Stack & Tools
