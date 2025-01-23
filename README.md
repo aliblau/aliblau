@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ali Blau
+# 👋 Hi, I’m Ali B
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in **Data Science**, **C#**, **SQL Server**, **Python**, and **TypeScript**. I enjoy learning, building, and collaborating on exciting projects in the tech world.
 
@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📫 How to Reach Me
 - Email: [ali.blau10@gmail.com](mailto:ali.blau10@gmail.com)
-- LinkedIn: [Your LinkedIn Profile (Add your link)](https://linkedin.com/in/alisamim/)
-- <!-- Portfolio: [Your Website or Portfolio Link (Add here)](https://daykundi.com) *(if applicable)* -->
+- LinkedIn: [Ali Samim](https://www.linkedin.com/in/alisamim/)
+<!-- - Portfolio: [Your Website or Portfolio Link (Add here)](https://daykundi.com) *(if applicable)* -->
 
 ## ⚡ Tech Stack & Tools
 Here are some of the technologies and tools I work with:
